@@ -13,6 +13,7 @@
 		731CDC201DB5046D00E6D6F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 731CDC1E1DB5046D00E6D6F3 /* Main.storyboard */; };
 		731CDC221DB5046D00E6D6F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 731CDC211DB5046D00E6D6F3 /* Assets.xcassets */; };
 		731CDC251DB5046D00E6D6F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 731CDC231DB5046D00E6D6F3 /* LaunchScreen.storyboard */; };
+		C1EF8CD51DB6771D00765CDA /* links to all downloaded photos for friends.rtf in Resources */ = {isa = PBXBuildFile; fileRef = C1EF8CD41DB6771D00765CDA /* links to all downloaded photos for friends.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		731CDC211DB5046D00E6D6F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		731CDC241DB5046D00E6D6F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		731CDC261DB5046D00E6D6F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C1EF8CD41DB6771D00765CDA /* links to all downloaded photos for friends.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "links to all downloaded photos for friends.rtf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 			children = (
 				731CDC141DB5046D00E6D6F3 /* RMFriends */,
 				731CDC131DB5046D00E6D6F3 /* Products */,
+				C1EF8CD41DB6771D00765CDA /* links to all downloaded photos for friends.rtf */,
 			);
 			sourceTree = "<group>";
 		};
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				731CDC251DB5046D00E6D6F3 /* LaunchScreen.storyboard in Resources */,
+				C1EF8CD51DB6771D00765CDA /* links to all downloaded photos for friends.rtf in Resources */,
 				731CDC221DB5046D00E6D6F3 /* Assets.xcassets in Resources */,
 				731CDC201DB5046D00E6D6F3 /* Main.storyboard in Resources */,
 			);
@@ -302,6 +306,7 @@
 				731CDC2B1DB5046D00E6D6F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
