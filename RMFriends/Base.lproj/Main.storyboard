@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<<<<<<< HEAD
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="t82-s8-NL1">
+=======
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="fR4-tk-rER">
+>>>>>>> b78602e17cc4391d8d6fced099a250da5e1f4b04
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
@@ -98,6 +102,7 @@
                                         <color key="backgroundColor" red="0.82504706125064442" green="1" blue="0.19414616141856855" alpha="0.79177748226950351" colorSpace="calibratedRGB"/>
                                         <state key="normal" title="My Friends"/>
                                     </button>
+<<<<<<< HEAD
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uO1-KR-Uu0">
                                         <rect key="frame" x="0.0" y="93" width="540" height="67"/>
                                         <color key="backgroundColor" red="1" green="0.76055759090216168" blue="0.86947688537640733" alpha="0.79177748226950351" colorSpace="calibratedRGB"/>
@@ -105,23 +110,41 @@
                                         <connections>
                                             <segue destination="5l9-AV-VB6" kind="show" id="XBW-CK-D1l"/>
                                         </connections>
+=======
+                                    <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uO1-KR-Uu0">
+                                        <rect key="frame" x="0.0" y="93" width="540" height="67"/>
+                                        <color key="backgroundColor" red="1" green="0.76055759090216168" blue="0.86947688537640733" alpha="0.79177748226950351" colorSpace="calibratedRGB"/>
+                                        <state key="normal" title="Add New"/>
+>>>>>>> b78602e17cc4391d8d6fced099a250da5e1f4b04
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zba-KH-JdQ">
                                         <rect key="frame" x="0.0" y="185" width="540" height="68"/>
                                         <color key="backgroundColor" red="0.72829808660108286" green="0.84391252487212653" blue="1" alpha="0.79177748226950351" colorSpace="calibratedRGB"/>
                                         <state key="normal" title="Who's There?"/>
                                     </button>
+<<<<<<< HEAD
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LXt-Dy-T6H">
+=======
+                                    <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LXt-Dy-T6H">
+>>>>>>> b78602e17cc4391d8d6fced099a250da5e1f4b04
                                         <rect key="frame" x="0.0" y="278" width="540" height="67"/>
                                         <color key="backgroundColor" red="0.53205231319314172" green="1" blue="0.98427378576790203" alpha="0.79177748226950351" colorSpace="calibratedRGB"/>
                                         <state key="normal" title="What's New?"/>
                                     </button>
+<<<<<<< HEAD
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7VC-of-MGp">
+=======
+                                    <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7VC-of-MGp">
+>>>>>>> b78602e17cc4391d8d6fced099a250da5e1f4b04
                                         <rect key="frame" x="0.0" y="370" width="540" height="68"/>
                                         <color key="backgroundColor" red="1" green="0.76227002060674898" blue="0.63292941456392582" alpha="0.79177748226950351" colorSpace="calibratedRGB"/>
                                         <state key="normal" title="My Friends"/>
                                     </button>
+<<<<<<< HEAD
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bEx-27-qhe">
+=======
+                                    <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bEx-27-qhe">
+>>>>>>> b78602e17cc4391d8d6fced099a250da5e1f4b04
                                         <rect key="frame" x="0.0" y="463" width="540" height="67"/>
                                         <color key="backgroundColor" red="0.73424427584378305" green="0.51399107512009901" blue="1" alpha="0.79177748226950351" colorSpace="calibratedRGB"/>
                                         <state key="normal" title="My Friends"/>
@@ -147,6 +170,7 @@
             <point key="canvasLocation" x="701" y="274"/>
         </scene>
         <!--View Controller-->
+<<<<<<< HEAD
         <scene sceneID="ayf-Sg-sHL">
             <objects>
                 <viewController id="5l9-AV-VB6" sceneMemberID="viewController">
@@ -352,6 +376,8 @@
             <point key="canvasLocation" x="2086" y="274"/>
         </scene>
         <!--View Controller-->
+=======
+>>>>>>> b78602e17cc4391d8d6fced099a250da5e1f4b04
         <scene sceneID="aFH-5F-5bm">
             <objects>
                 <viewController id="lKJ-9h-rVl" sceneMemberID="viewController">
@@ -386,6 +412,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Sku-op-VPs" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-767" y="274"/>
+<<<<<<< HEAD
         </scene>
         <!--View Controller-->
         <scene sceneID="jyb-Mh-8A4">
@@ -518,6 +545,11 @@
         <image name="29" width="1275" height="1650"/>
         <image name="36" width="1300" height="867"/>
         <image name="39" width="530" height="353"/>
+=======
+        </scene>
+    </scenes>
+    <resources>
+>>>>>>> b78602e17cc4391d8d6fced099a250da5e1f4b04
         <image name="4" width="600" height="409"/>
         <image name="40" width="1600" height="1066"/>
         <image name="9" width="5616" height="2832"/>
